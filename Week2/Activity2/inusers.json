@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Ramírez",
+    "email": "ana.ramirez@example.com",
+    "address": {
+      "city": "Bogotá",
+      "zip": "110111"
+    },
+    "social": {
+      "facebook": "ana.ram",
+      "twitter": "@anar"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Carlos Pérez",
+    "email": "carlos.perez@example.com",
+    "address": {
+      "city": "Medellín",
+      "zip": "050022"
+    },
+    "social": {
+      "facebook": "carlospz",
+      "twitter": "@cpz"
+    }
+  }
+]
