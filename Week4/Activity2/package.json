@@ -1,0 +1,19 @@
+{
+  "name": "activity2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "jest-fetch-mock": "^3.0.3"
+  },
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
